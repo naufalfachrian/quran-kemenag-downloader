@@ -1,0 +1,4 @@
+{
+  "connection": "sqlite",
+  "database": "db.sqlite"
+}
